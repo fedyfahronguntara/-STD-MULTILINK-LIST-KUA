@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1488206513 source:d:\campus\09. analisis struktur data\tubes\kua\kua.cpp
+	"kua.h"
+
+1488206524 d:\campus\09. analisis struktur data\tubes\kua\kua.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1488206482 source:d:\campus\09. analisis struktur data\tubes\kua\main.cpp
+	"kua.h"
+
+1488202913 source:e:\tubes asd\kua fix + skema list + cara penggunaan\kua\kua.cpp
+	"kua.h"
+
+1488202924 e:\tubes asd\kua fix + skema list + cara penggunaan\kua\kua.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1488425337 source:e:\tubes asd\kua fix + skema list + cara penggunaan\kua\main.cpp
+	"kua.h"
+
